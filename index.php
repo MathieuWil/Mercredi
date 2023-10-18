@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Promo 266</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
@@ -12,9 +13,9 @@
         <p>nom</p>
         <input type="text" name="nom">
         <p>prenom</p>
-        <input type="text" name="prenom">
-        <input type="hidden" name="action" value="ajouter">
-        <input type="submit" name="valider" value="valider">
+        <input type="text" name="prenom"> 
+        <input type="hidden" name="action" value="ajouter"><br><br>
+        <input type="submit" name="valider" value="valider" id="sub">
     </form>
 
 </body>

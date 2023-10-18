@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 214, 173);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    margin-top: 5%;
+    width: 50%;
+}
+
+input {
+    width: 80%;
+}
+
+#sub {
+    width: auto;
+}
